@@ -27,9 +27,7 @@ Clean and structured OOP design
 
 Formula Used
 
-Total Construction Cost = Area × Cost per Square Foot
-
-🛠 Technologies Used
+Total Construction Cost = Area × Cost per Square Foot Technologies Used
 
 Python
 
